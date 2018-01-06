@@ -8,6 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: A self-paced program for learning Web Development. Test!
+description: A self-paced program for learning Web Development.
 theme: jekyll-theme-cayman
 show_downloads: true
