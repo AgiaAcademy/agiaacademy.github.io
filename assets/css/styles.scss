@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// Text
+$body-link-color: #33c5f2 !default;
 
-a {
-    color: #33c5f2;
-}
+@import "{{ site.theme }}";
