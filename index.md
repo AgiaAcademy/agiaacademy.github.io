@@ -34,6 +34,5 @@ Code, Sublime Text
 The first big milestone here is for each of you to build your own website, yourself (with my
 help), and put it out into the world. Sounds intimidating, but it’s not so bad – I have it all more or less
 planned out.
-
 For now, this won’t be a timed program (ie: 4 weeks, 10 weeks, etc), as I’d like to see how we
-progress naturally the first time around. If this changes I will let you know
+progress naturally the first time around. If this changes I will let you know.
