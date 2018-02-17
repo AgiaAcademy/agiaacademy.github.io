@@ -20,15 +20,15 @@ character, and using some of my business’s tools to run it. Read on!
 # Goals
 Here’s my short list of goals for our program:
 - Learn some front-end programming and scripting
-..- HTML
-..- CSS
-..- JavaScript
+  - HTML
+  - CSS
+  - JavaScript
 - Get introduced to free tools and services to learn and practice web development
 - Get familiar with a number of tools used in day-to-day development & programming
-..- IDE's (Integrated Development Environments) and code editors like Visual Studio, VS
+  - IDE's (Integrated Development Environments) and code editors like Visual Studio, VS
 Code, Sublime Text
-..- Source control (Git)
-..- Hosting (GitHub, Azure)
+  - Source control (Git)
+  - Hosting (GitHub, Azure)
 - Build your very own first, real website, and put it out there!
 
 The first big milestone here is for each of you to build your own website, yourself (with my
