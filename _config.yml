@@ -8,6 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: A self-paced program for learning Web Development.
+description: Agia Academy matches netrunners with rookies, and sends them on adventures.
 theme: jekyll-theme-cayman
 show_downloads: true
