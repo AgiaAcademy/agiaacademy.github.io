@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Agia Academy matches netrunners with rookies, and sends them on adventures.
+# h̴͔̝̟̒̔e̵͓̻͍͋͝͠l̴̢͕͎͌̚̕l̵̡̻̻̒̓̕o̸͓͖̿͊͝
 
 * A netrunner is a professional in IT with a technical skill. They could be a programmer, a network engineer, a database administrator, a hacker, or one of many other technical roles.
 * A rookie is somebody who is interested in a closer, more personal look into the tech field. They could aspire to become a netrunner themselves, or simply enjoy being a participant in a netrunner's adventures.
