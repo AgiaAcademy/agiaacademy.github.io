@@ -7,7 +7,7 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
-description: Agia Academy matches netrunners with rookies, and sends them on adventures.
+    output: false
+description: Agia Academy matches netrunners with rookies, and sends them on adventures
 theme: jekyll-theme-cayman
 show_downloads: true
